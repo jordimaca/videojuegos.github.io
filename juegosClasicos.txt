@@ -1,0 +1,7 @@
+Buscaminas
+la serpiente(snake)
+solitario
+blackjack
+tetris
+space invaders
+
